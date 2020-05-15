@@ -1,8 +1,9 @@
 ---
-title: "Code Example"
+title: "Start the coding"
+featuredImage: ../images/gatsby-astronaut.png
 date: "2019-06-06"
 draft: false
-path: "/blog/code-example"
+path: "/blog/start-coding"
 ---
 
 ## An Code example with PrismJS

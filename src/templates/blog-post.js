@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import styled from "@emotion/styled"
+import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -23,11 +24,13 @@ const MarkedHeader = styled.h1`
 
 const HeaderDate = styled.h3`
   margin-top: 10px;
+  font-size:1.0rem;
   color: #606060;
 `
 
 // STYLE THE TAGS INSIDE THE MARKDOWN HERE
 const MarkdownContent = styled.div`
+  margin-top:10%;
   a {
     text-decoration: none;
     position: relative;
