@@ -41,5 +41,7 @@ console.log(foo);
 |-------|------ |
 | Foo   | Bar   |
 
-
+---
+>Image loading as featured image was still needed to be done.
+---
 
